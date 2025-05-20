@@ -6,7 +6,7 @@
 
 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐝𝐫𝐢𝐯𝐞𝐧 𝐒𝐭𝐨𝐜𝐤 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 to Identify Trends and Make Informed Investment Decisions. Here’s how it enhances decision-making by analyzing Tata's stock market behavior over the past year.
 
-![image alt](https://github.com/Anandakrishh/dashboard_image/blob/1a9beb00e47a1960fa47b4cde7a85c99fc88d165/Screenshot%202025-05-20%20205005.png)
+![image alt](https://github.com/Anandakrishh/dashboard_image/blob/73474d3be22c4a5b3e237bbc34482eda85c86a53/Screenshot%202025-05-20%20210115.png)
 ![image alt](https://github.com/Anandakrishh/dashboard_image/blob/1a9beb00e47a1960fa47b4cde7a85c99fc88d165/Screenshot%202025-05-20%20205017.png)
 ![image alt](https://github.com/Anandakrishh/dashboard_image/blob/1a9beb00e47a1960fa47b4cde7a85c99fc88d165/Screenshot%202025-05-20%20205027.png)
 
